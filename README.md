@@ -1,0 +1,2 @@
+# autohostai
+AutoHostAI landing page
